@@ -1,0 +1,88 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSw6xFZkfvMdNk6CWSrykeETto5kZaUJp5RA&usqp=CAU");
+}
+
+.dom {
+    text-align: center;
+}
+
+.dom1 {
+    background-color: gray;
+    border-radius: 20px;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.protocolos {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.tcp {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.dns{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.cdn {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.www {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.ftp{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.html{
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    border-radius: 20px;    
+}
+
+.buttom {
+    text-align: center;
+}
